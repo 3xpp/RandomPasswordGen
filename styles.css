@@ -1,0 +1,55 @@
+body {
+    background-color: #1E293B;
+    color: white;
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+.container {
+    width: 400px;
+    margin: auto;
+    padding: 60px;
+    background-color: #0F172A;
+    border-radius: 10px;
+
+}
+
+h1 {
+    font-size: 24px;
+}
+
+.highlight {
+    color: #10B981;
+}
+
+p {
+    color: #9CA3AF;
+}
+
+button {
+    background-color: #10B981;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.passwords {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+    margin-left:2px;
+    margin-right:2px;
+    
+}
+
+input {
+    background-color: #1E293B;
+    border: none;
+    padding: 10px;
+    color: white;
+    text-align: center;
+    border-radius: 5px;
+    width: 45%;
+}
